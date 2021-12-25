@@ -1,1 +1,1 @@
-# K-means-using-MNIST-file
+# K-NN-MNIST-file
